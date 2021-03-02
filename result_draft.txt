@@ -1,0 +1,35 @@
+ResNet50
+Color 0.4937 44
+Exposure 0.4307 58
+Noise 0.4747 1
+Texture 0.4677 42
+
+ResNet34
+Color 0.5009 1
+Exposure 0.4591 76
+Noise 0.4889 10
+Texture 0.4683 30
+
+ResNet152
+Color 0.4954846151281401, epoch = 73
+Exposure 0.4608497670259248, epoch = 98
+Noise 0.48117745021010866, epoch = 88
+Texture 0.47347150301439056, epoch = 1
+
+ResNet18
+Color 0.5019555423533075, epoch = 72
+Exposure 0.45651163363619895, epoch = 67
+Noise 0.4819452318981467, epoch = 64
+Texture 0.4683647242663593, epoch = 22
+
+
+ResNet101
+Color 0.4957419036437657, epoch = 99
+Exposure 0.45216613692259233, epoch = 84
+Noise 0.479352784186318, epoch = 94
+Texture 0.4688730054147573, epoch = 45
+
+
+
+
+

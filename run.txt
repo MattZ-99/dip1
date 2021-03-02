@@ -1,0 +1,5 @@
+python -u train.py --cuda --threads 4 --label_column Color
+python -u train.py --cuda --threads 4 --label_column Exposure
+python -u train.py --cuda --threads 4 --label_column Noise
+python -u train.py --cuda --threads 4 --label_column Texture
+
